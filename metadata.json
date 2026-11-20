@@ -1,0 +1,6 @@
+{
+  "name": "Eco Hero: Kids Garbage Sorter!",
+  "description": "An interactive, kid-friendly garbage sorting game powered by Google Teachable Machine image classification.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
